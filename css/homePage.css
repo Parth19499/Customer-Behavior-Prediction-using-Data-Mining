@@ -1,0 +1,50 @@
+body {
+	background-color: rgba(50,50,50,0.2);
+}
+
+.big-div {
+	float: left;
+}
+
+.recommendation {
+	float : right;
+	margin-top: 5%;
+}
+
+.btn-buy {
+	background-color: #4CAF50;
+	border: none;
+	width: 80px;
+	color: white;
+	padding: 5px;
+	text-align: center;
+	border-radius: 12px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+}
+
+.btn-buy:hover {
+	background-color: rgba(0,0,0,0.8);
+}
+
+#logout {
+	float: right;
+}
+
+h2 {
+	color : maroon;
+}
+
+#session {
+	color : blue;
+}
+
+h4 {
+	color : green;
+}
+
+#ordered {
+	color : brown;
+}

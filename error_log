@@ -1,0 +1,115 @@
+[22-Aug-2018 18:10:25 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 19
+[22-Aug-2018 18:31:21 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 19
+[22-Aug-2018 18:46:34 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:47:00 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:47:01 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:48:24 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:48:30 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:48:33 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:49:30 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:49:32 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:35 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:39 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:40 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:40 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:41 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:42 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:44 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:44 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:45 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:45 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:50:46 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:51:18 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:51:19 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:51:19 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:51:20 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[22-Aug-2018 18:51:20 Europe/London] PHP Fatal error:  require(): Failed opening required 'forgetPassphp' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/smarthea/public_html/Login/resetPass.php on line 2
+[23-Aug-2018 06:36:50 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/smarthea/public_html/Login/login.php on line 18
+[23-Aug-2018 06:43:16 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/smarthea/public_html/Login/login.php on line 18
+[23-Aug-2018 06:45:21 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/smarthea/public_html/Login/login.php on line 18
+[23-Aug-2018 06:46:53 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/smarthea/public_html/Login/login.php on line 19
+[23-Aug-2018 08:38:46 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/smarthea/public_html/Login/login.php on line 19
+[23-Aug-2018 11:03:50 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/smarthea/public_html/Login/login.php on line 20
+[23-Aug-2018 11:05:28 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/smarthea/public_html/Login/login.php on line 18
+[23-Aug-2018 11:16:54 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'smathea_Parth'@'localhost' (using password: YES)' in /home/smarthea/public_html/Login/login.php:5
+Stack trace:
+#0 /home/smarthea/public_html/Login/login.php(5): PDO->__construct('mysql:host=loca...', 'smathea_Parth', 'Parth@19499')
+#1 {main}
+  thrown in /home/smarthea/public_html/Login/login.php on line 5
+[23-Aug-2018 11:17:49 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'smathea_Parth'@'localhost' (using password: YES)' in /home/smarthea/public_html/Login/login.php:5
+Stack trace:
+#0 /home/smarthea/public_html/Login/login.php(5): PDO->__construct('mysql:host=loca...', 'smathea_Parth', 'Parth@19499')
+#1 {main}
+  thrown in /home/smarthea/public_html/Login/login.php on line 5
+[23-Aug-2018 11:19:55 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'smathea_Parth'@'localhost' (using password: YES)' in /home/smarthea/public_html/Login/login.php:5
+Stack trace:
+#0 /home/smarthea/public_html/Login/login.php(5): PDO->__construct('mysql:host=loca...', 'smathea_Parth', 'Parth@19499')
+#1 {main}
+  thrown in /home/smarthea/public_html/Login/login.php on line 5
+[23-Aug-2018 11:20:42 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'smathea_Parth'@'localhost' (using password: YES)' in /home/smarthea/public_html/Login/login.php:5
+Stack trace:
+#0 /home/smarthea/public_html/Login/login.php(5): PDO->__construct('mysql:host=loca...', 'smathea_Parth', 'Parth@19499')
+#1 {main}
+  thrown in /home/smarthea/public_html/Login/login.php on line 5
+[23-Aug-2018 11:20:52 Europe/London] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'smathea_Parth'@'localhost' (using password: YES)' in /home/smarthea/public_html/Login/login.php:5
+Stack trace:
+#0 /home/smarthea/public_html/Login/login.php(5): PDO->__construct('mysql:host=loca...', 'smathea_Parth', 'Parth@19499')
+#1 {main}
+  thrown in /home/smarthea/public_html/Login/login.php on line 5
+[24-Aug-2018 11:05:29 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 19
+[28-Aug-2018 06:19:29 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:19:58 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:21:24 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:22:18 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:23:06 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:23:57 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:24:25 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:24:32 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:24:43 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:26:42 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:27:34 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 31
+[28-Aug-2018 06:29:22 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 32
+[28-Aug-2018 06:29:46 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 32
+[28-Aug-2018 06:32:38 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 33
+[28-Aug-2018 06:33:16 Europe/London] PHP Fatal error:  Call to undefined function mysqli() in /home/smarthea/public_html/Login/forgetPass.php on line 34
+[28-Aug-2018 06:55:32 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 20
+[28-Aug-2018 06:59:56 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 20
+[28-Aug-2018 07:17:37 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 20
+[28-Aug-2018 07:25:48 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 20
+[28-Aug-2018 07:34:33 Europe/London] PHP Parse error:  syntax error, unexpected 'something' (T_STRING), expecting ',' or ';' in /home/smarthea/public_html/Login/forgetPass.php on line 47
+[28-Aug-2018 07:34:39 Europe/London] PHP Parse error:  syntax error, unexpected 'something' (T_STRING), expecting ',' or ';' in /home/smarthea/public_html/Login/forgetPass.php on line 47
+[28-Aug-2018 07:34:50 Europe/London] PHP Parse error:  syntax error, unexpected 'something' (T_STRING), expecting ',' or ';' in /home/smarthea/public_html/Login/forgetPass.php on line 47
+[28-Aug-2018 07:40:37 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 21
+[28-Aug-2018 15:48:58 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 23
+[28-Aug-2018 15:50:59 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 23
+[28-Aug-2018 15:52:59 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/forgetPass.php on line 23
+[29-Aug-2018 07:01:07 Europe/London] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/smarthea/public_html/Login/otpValidate.php on line 36
+[30-Apr-2019 17:24:43 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:24:43 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:24:44 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:24:44 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:24:44 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:24:47 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:24:57 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:07 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:07 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:07 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:09 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:14 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:14 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:14 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:15 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:15 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:15 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:15 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:29 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:29 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:29 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:30 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:30 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:37 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:37 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:38 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:38 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:38 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40
+[30-Apr-2019 17:25:42 Europe/London] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ',' or ';' in /home/smarthea/public_html/Login/home.php on line 40

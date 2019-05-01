@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>StrongType</title>
+	<style type="text/css">
+		#email {
+				border-radius: 25px;
+				border: 2px solid black;
+				height: 35px;
+				width: 400px;
+		}	
+		#email:focus {
+				border-color: green;
+		}
+		#btn {
+				border-radius: 25px;
+				background-color: cyan;
+				color: red;
+				font-weight: bold;
+				height: 35px;
+				width: 90px;
+		}
+		#btn:hover {
+				background-color: black;
+		}
+		#yo {
+			margin-top: 200px;
+		}
+	</style>
+	<script type="text/javascript">
+	    
+    function showUser(str) {
+        
+            if (window.XMLHttpRequest) {
+                // code for IE7+, Firefox, Chrome, Opera, Safari
+                xmlhttp = new XMLHttpRequest();
+            } else {
+                // code for IE6, IE5
+                xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            xmlhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("txtHint").innerHTML = this.responseText;
+                }
+            };
+            xmlhttp.open("GET","PHP/strongType.php?email="+str,true);
+            xmlhttp.send();
+        }
+	</script>
+</head>
+<body>
+	<div align="center" id="yo">
+	<form>
+		<input type="email" name="email" id="email" placeholder="enter email" onchange="showUser(this.value)" autofocus required><br><br>
+		<input type="submit" value="submit" id="btn">
+	</form>
+	</div>
+	<div id="txtHint"><b>Person info will be listed here...</b></div>
+</body>
+</html>

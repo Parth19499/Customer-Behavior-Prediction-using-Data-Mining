@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Reset Password</title>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/resetPass.css">
+	<script type="text/javascript">
+		function myFunction() {
+    		var popup = document.getElementById("myPopup");
+    		popup.classList.toggle("show");
+		}
+		function matchPass(){
+		    var pass = document.getElementById("jspass").value;
+		    var cpass = document.getElementById("jscpass").value;
+		    if(pass !== cpass){
+		        document.getElementById("btn").disabled = true;
+		        alert("Password does not match");
+		    }
+		    else {
+		        document.getElementById("btn").disabled = false;
+		    }
+		}
+	</script>
+</head>
+<body>
+    <div class="limiter">
+    <div class="container-login100">
+    <div class="wrap-login100">
+	<div id="cmebrah">
+	<fieldset>
+		<legend>Enter new password</legend>
+		<form action="PHP/resetPass.php" method="post">
+		    <!--<input type="hidden" name="id" value="<? echo htmlspecialchars($id); ?>" >-->
+			<div class="popup" onclick="myFunction()"><input type="password" name="npass" placeholder="new password" id="jspass" class="np" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,15}" 
+			title="Password must contain one uppercase, one lowercase, one number and its length should be minimum 8 and maximum 15." required autofocus>
+			<span class="symbol-input100"><i class="fa fa-lock" aria-hidden="true"></i></span>
+			<!--<span class="popuptext" id="myPopup">Password must contain one uppercase, one lowercase, one number and its length should be minimum 8 and maximum 15.</span>-->
+			</div><br><br>
+			<input type="password" name="ncpass" placeholder="confirm password" class="np" id="jscpass" onchange="matchPass()" required><span class="symbol-input100"><i class="fa fa-lock" aria-hidden="true"></i></span><br><br>
+			<input type="submit" value="change password" id="btn">
+		</form>
+	</fieldset>
+	</div>
+	</div></div></div>
+</body>
+</html>

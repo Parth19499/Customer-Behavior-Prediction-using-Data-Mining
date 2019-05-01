@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>New User</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/signup.css">
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+	<script type="text/javascript">
+		function myFunction() {
+    		var popup = document.getElementById("myPopup");
+    		popup.classList.toggle("show");
+		}
+		function changeMe(){
+		    var x = document.getElementById("ru").value;
+		    if(x == "doctor"){
+		        document.getElementById("qlf").style.display="block";
+		        document.getElementById("disease").style.display="none";
+		        
+		    }
+		    else if(x == "patient"){
+		        document.getElementById("qlf").style.display="none";
+		        document.getElementById("disease").style.display="block";
+		    }
+		    else{
+		        document.getElementById("qlf").style.display="none";
+		        document.getElementById("disease").style.display="none";
+		    }
+		}
+//     $('#signup').click(function () {
+//     $('.center-container').css({"top":"0%"});
+//     $('#login-title').html('Sign up now');
+//     $('.login-subtitle').html('Fill in the form below to get instant access:');
+//     $("#login-type").attr('src','images/signup.png');
+//     $("#email").css({"display": "block"});
+//     $("#cpass").css({"display": "block"});
+//     $("#submita").css({"display": "block"});
+//     $('#submita').attr('value','Sign me up!!');
+//         $("#submit").css({"display": "none"});
+    //$('#submit').attr('value','Sign me up');
+
+//    $('.signup-text').html('Alrady have account?');
+//     $('#signup').css({"display": "none"});
+//     $('#login').css({"display": "inline"});
+//   });
+
+//   $('#login').click(function () {
+//     $('.center-container').css({"top":"10%"});
+//     $('#login-title').html('Login to our site');
+//     $('.login-subtitle').html('Enter your username and password to log on:');
+//     $("#login-type").attr('src','images/lock2.png');
+//     $("#email").css({"display": "none"});
+//     $("#cpass").css({"display": "none"});
+//     $("#submit").css({"display": "block"});
+//     $('#submit').attr('value','Log in!');
+//         $("#submita").css({"display": "none"});
+
+//       // $('#submita').attr('value','Sign me up!');
+
+//     $('#signup').css({"display": "inline"});
+//     $('.signup-text').html('New to Qisual?');
+//     $('#login').css({"display": "none"});
+//     $('#signup').css({"display": "inline"});
+//   });
+	</script>
+</head>
+<body>
+    <div class="limiter">
+    <div class="container-login100">
+    <div class="wrap-login100">
+	<h1 align="center">Register here</h1><br>
+	<div align="center" class="wth">
+	<fieldset>
+	<legend>Enter following details: </legend>
+	<form action="PHP/signup.php" method="post" enctype="multipart/form-data">
+		<p id="prof">Are you a</p>
+		<div id="drop"><select name="ru" id="ru" onchange="changeMe()">
+			<option value="user">User</option>
+			<option value="patient">patient</option>
+			<option value="doctor">doctor</option>
+		</select></div><hr>
+		<input type="text" name="name" placeholder="name" class="o" autofocus required><span class="symbol-input100"><i class="fa fa-user" aria-hidden="true"></i></span><br><br>
+		<input type="email" name="email" placeholder="email" class="o">
+		<span class="symbol-input100"><i class="fa fa-envelope" aria-hidden="true"></i></span>
+		<br><br>
+		<div class="popup" onclick="myFunction()"><input type="password" name="pass" class="o" placeholder="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,15}">
+		<span class="symbol-input100"><i class="fa fa-lock" aria-hidden="true"></i></span>
+		<span class="popuptext" id="myPopup">Password must contain one uppercase, one lowercase, one number and its length should be minimum 8 and maximum 15.</span>
+		</div><br><br>
+		<input type="date" name="dob" class="o"><span class="symbol-input100"><i class="fa fa-calendar" aria-hidden="true"></i></span><br><br><div id="qlf" required><b>Qualification Certificate</b>
+		<input type="file" name="file_img"  class="btn"><br></div>
+		<div id="disease"><input type="text" class="o" name="disease" placeholder="enter chronic disease"><br></div>
+		<div class="container-login100-form-btn"><input type="submit" value="Submit" id="lme" class="login100-form-btn" name="btn_upload">
+		<input type="reset" value="Reset" id="rme" class="login100-form-btn"><br></div>
+		</form>
+	</fieldset>
+	</div>
+	</div>
+	</div>
+	</div>
+</body>
+</html>
