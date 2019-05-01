@@ -1,4 +1,5 @@
 import sys
+import random
 import pyfpgrowth
 import pandas as pd
 transactions = pd.read_csv('store_data.csv',header = None,keep_default_na = False)
@@ -171,19 +172,29 @@ for i in range(1,121):
     
     
 if len(rec)==0:
-  rec.append(dict2[mi1])
-  rec.append(dict2[mi2])
-  rec.append(dict2[mi3])
-  rec.append(dict2[mi4])
+  rec.append(dict2[random.randint(1,30)])
+  rec.append(dict2[random.randint(1,30)*2])
+  rec.append(dict2[random.randint(1,30)*3])
+  rec.append(dict2[random.randint(1,30)*4])
+  # rec.append(dict2[mi1])
+  # rec.append(dict2[mi2])
+  # rec.append(dict2[mi3])
+  # rec.append(dict2[mi4])
 elif len(rec)==1:
-  rec.append(dict2[mi1])
-  rec.append(dict2[mi2])
-  rec.append(dict2[mi3])
+  rec.append(dict2[random.randint(1,30)])
+  rec.append(dict2[random.randint(1,30)*2])
+  rec.append(dict2[random.randint(1,30)*3])
+  # rec.append(dict2[mi1])
+  # rec.append(dict2[mi2])
+  # rec.append(dict2[mi3])
 elif len(rec)==2:
-  rec.append(dict2[mi1])
-  rec.append(dict2[mi2])
+  rec.append(dict2[random.randint(1,30)])
+  rec.append(dict2[random.randint(1,30)*2])
+  # rec.append(dict2[mi1])
+  # rec.append(dict2[mi2])
 elif len(rec)==3:
-  rec.append(dict2[mi1])
+  rec.append(dict2[random.randint(1,30)])
+  # rec.append(dict2[mi1])
 elif len(rec)>4:
   m1=-1;m2=-1;m3=-1;m4=-1
   mi1=0;mi2=0;mi3=0;mi4=0
